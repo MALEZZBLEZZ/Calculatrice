@@ -1,0 +1,23 @@
+{
+  "name": "calculatrice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MALEZZBLEZZ/Calculatrice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MALEZZBLEZZ/Calculatrice/issues"
+  },
+  "homepage": "https://github.com/MALEZZBLEZZ/Calculatrice#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
